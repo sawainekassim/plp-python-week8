@@ -1,0 +1,36 @@
+PERSONAL MINI-TOOLKIT — PROJECT PLAN
+======================================
+
+1. TOOLS
+
+Tool 1: Simple Calculator
+The calculator asks for two numbers and an operation, then displays the answer.
+Concepts: input, variables, conditionals, arithmetic operators, f-strings.
+
+Tool 2: To-Do List Manager
+The to-do manager lets the user add tasks, view all tasks, and remove tasks from a list.
+Concepts: lists, append(), remove(), loops, conditionals, input, f-strings.
+
+Tool 3: Number Guessing Game
+The game chooses a random number and gives the user repeated chances to guess it, with hints.
+Concepts: random numbers, while loop, conditionals, input, variables, f-strings.
+
+2. EXACT MAIN MENU TEXT
+
+========== PERSONAL MINI-TOOLKIT ==========
+1. Simple Calculator
+2. To-Do List Manager
+3. Number Guessing Game
+4. Quit
+Choose an option (1-4):
+
+3. CONCEPTS USED ACROSS THE PROJECT
+
+- Variables store menu choices, numbers, calculations, and task information.
+- input() collects information from the user.
+- print() displays instructions and results.
+- if / elif / else routes menu choices and handles decisions.
+- while loops keep the menu running and allow repeated guesses or task actions.
+- A Python list stores tasks and changes when tasks are added or removed.
+- f-strings display clear, friendly messages.
+- Comments explain the purpose of each tool.
